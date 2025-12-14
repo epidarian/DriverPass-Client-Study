@@ -4,7 +4,7 @@
 
 DriverPass is a driver training company that identified a gap in the market: students frequently fail DMV driving tests due to inadequate preparation resources. This project involved designing a comprehensive web-based system to address that problem through online coursework, practice testing, and on-the-road training session scheduling.
 
-The work simulates a real-world consulting engagement—gathering requirements from client stakeholders, producing formal documentation, modeling the system with UML, and presenting the proposed solution.
+The work simulates a real-world consulting engagement: gathering requirements from client stakeholders, producing formal documentation, modeling the system with UML, and presenting the proposed solution.
 
 ## Real-World Application
 
